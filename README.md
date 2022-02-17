@@ -1,4 +1,4 @@
-# Exploratory-Data-Analysis-Medical-Appointments-Data.ipynb
+# Exploratory-Data-Analysis-Medical-Appointments-Data
 
 
 Each patient’s record is characterized by the following features:
